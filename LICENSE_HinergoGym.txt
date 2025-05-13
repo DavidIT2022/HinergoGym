@@ -1,0 +1,23 @@
+
+HinergoGym – Custom License
+
+Author: David Bianconi
+Contact: davidbianconi@outlook.it
+
+License Summary:
+This dataset, model, and all related resources are provided under a custom license.
+
+You are allowed to:
+- Use this material for individual or internal company analysis.
+- Use it in commercial or consulting contexts if the usage is personal or internal.
+
+You are NOT allowed to:
+- Use this material in training courses, educational platforms, or workshops aimed at third parties with a profit motive.
+- Redistribute or adapt this material for external educational purposes without explicit written consent from the author.
+
+If you wish to include this content in any educational or commercial offering for third parties (e.g. paid trainings, workshops, bootcamps), you must request written permission.
+
+To request permission or clarify licensing terms, contact:
+📩 davidbianconi@outlook.it
+
+This material is offered for educational inspiration and non-profit knowledge sharing within ethical use boundaries.
