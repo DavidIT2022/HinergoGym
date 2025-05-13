@@ -42,7 +42,7 @@ The dataset includes 3 full years of sales data (2023–2025), complete dimensio
 ## 👤 Author / Contatti
 
 **David Bianconi**  
-✉️ davidbianconi@outlook.it
+✉️ davidbianconi@outlook.it (https://www.linkedin.com/in/davidbianconi/)
 
 ---
 
