@@ -1,0 +1,10 @@
+﻿SubcategoryKey,CategoryKey,SubcategoryName,SubcategoryDescription,IsActive,CreatedDate,ModifiedDate
+1,1,Treadmills,Motorized running machines,True,2023-01-01,2025-01-04
+2,1,Exercise Bikes,Stationary bikes for indoor cycling,True,2023-01-01,2025-01-04
+3,1,Rowing Machines,Simulators for rowing workouts,True,2023-01-01,2025-01-04
+4,2,Dumbbells,Free weights for various exercises,True,2023-01-01,2025-01-04
+5,2,Barbells,Weighted bars for lifting,True,2023-01-01,2025-01-04
+6,2,Benches,Support benches for weight training,True,2023-01-01,2025-01-04
+7,3,Yoga Mats,Mats for yoga and floor exercises,True,2023-01-01,2025-01-04
+8,3,Resistance Bands,Elastic bands for strength and flexibility,True,2023-01-01,2025-01-04
+9,3,Wearables,Fitness tracking devices,True,2023-01-01,2025-01-04

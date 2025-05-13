@@ -1,0 +1,4 @@
+﻿CompanyKey,CompanyName,CompanyType,ParentCompanyKey,Country,LegalForm,IncorporationDate,CurrencyCode,CreatedDate,ModifiedDate
+1,Hinergo Gym Italy S.p.A.,Parent,,Italy,S.p.A.,2000-01-15,EUR,2023-01-01,2025-01-04
+2,Hinergo Gym US LLC,Subsidiary,1.0,USA,LLC,2015-06-01,USD,2023-01-01,2025-01-04
+3,Hinergo Gym Belgium BV,Subsidiary,1.0,Belgium,BV,2018-03-20,EUR,2023-01-01,2025-01-04

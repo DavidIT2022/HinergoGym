@@ -1,0 +1,6 @@
+﻿LocationKey,LocationName,City,StateProvince,Country,Region,LocationType,CompanyKey,CreatedDate,ModifiedDate
+1,Milan Warehouse,Milan,Lombardy,Italy,Europe,Logistics,1,2023-01-01,2025-01-04
+2,Turin Warehouse,Turin,Piedmont,Italy,Europe,Logistics,1,2023-01-01,2025-01-04
+3,Rome Plant,Rome,Lazio,Italy,Europe,Production,1,2023-01-01,2025-01-04
+4,Charlotte Plant,Charlotte,North Carolina,USA,North America,Both,2,2023-01-01,2025-01-04
+5,Brussels Plant,Brussels,Brussels-Capital,Belgium,Europe,Both,3,2023-01-01,2025-01-04

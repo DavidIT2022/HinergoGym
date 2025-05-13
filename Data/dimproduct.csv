@@ -1,0 +1,96 @@
+﻿ProductKey,SubcategoryKey,ProductName,SKU,ProductDescription,UnitCost,UnitPrice,WeightKg,DimensionsCm,Color,UoM,IsActive,CreatedDate,ModifiedDate
+1,1,Treadmills Model TRD001,TRD001,High-quality treadmills for home and commercial use.,1500.53,2128.59,78.42,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
+2,1,Treadmills Model TRD002,TRD002,High-quality treadmills for home and commercial use.,1924.63,2677.37,125.23,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
+3,1,Treadmills Model TRD003,TRD003,High-quality treadmills for home and commercial use.,1202.48,1712.69,81.99,200x90x140,Black,piece,True,2023-01-01,2025-01-04
+4,1,Treadmills Model TRD004,TRD004,High-quality treadmills for home and commercial use.,1978.16,2880.87,105.1,200x90x140,Blue,piece,True,2023-01-01,2025-01-04
+5,1,Treadmills Model TRD005,TRD005,High-quality treadmills for home and commercial use.,677.04,862.96,140.53,200x90x140,Red,piece,True,2023-01-01,2025-01-04
+6,1,Treadmills Model TRD006,TRD006,High-quality treadmills for home and commercial use.,510.9,756.78,80.12,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
+7,1,Treadmills Model TRD007,TRD007,High-quality treadmills for home and commercial use.,1895.89,2643.38,73.62,200x90x140,Black,piece,True,2023-01-01,2025-01-04
+8,1,Treadmills Model TRD008,TRD008,High-quality treadmills for home and commercial use.,1920.74,2347.5,103.87,200x90x140,Black,piece,True,2023-01-01,2025-01-04
+9,1,Treadmills Model TRD009,TRD009,High-quality treadmills for home and commercial use.,1481.08,2071.89,90.92,200x90x140,Blue,piece,True,2023-01-01,2025-01-04
+10,1,Treadmills Model TRD010,TRD010,High-quality treadmills for home and commercial use.,806.78,1108.35,93.99,200x90x140,Red,piece,True,2023-01-01,2025-01-04
+11,1,Treadmills Model TRD011,TRD011,High-quality treadmills for home and commercial use.,1058.65,1551.42,81.21,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
+12,2,Exercise Bikes Model BIK001,BIK001,High-quality exercise bikes for home and commercial use.,776.09,1107.94,49.46,120x60x140,Black,piece,True,2023-01-01,2025-01-04
+13,2,Exercise Bikes Model BIK002,BIK002,High-quality exercise bikes for home and commercial use.,898.57,1099.51,45.33,120x60x140,Gray,piece,True,2023-01-01,2025-01-04
+14,2,Exercise Bikes Model BIK003,BIK003,High-quality exercise bikes for home and commercial use.,819.88,1194.83,56.59,120x60x140,Gray,piece,True,2023-01-01,2025-01-04
+15,2,Exercise Bikes Model BIK004,BIK004,High-quality exercise bikes for home and commercial use.,506.75,650.86,39.04,120x60x140,Green,piece,True,2023-01-01,2025-01-04
+16,2,Exercise Bikes Model BIK005,BIK005,High-quality exercise bikes for home and commercial use.,716.12,960.22,56.26,120x60x140,Black,piece,True,2023-01-01,2025-01-04
+17,2,Exercise Bikes Model BIK006,BIK006,High-quality exercise bikes for home and commercial use.,315.23,463.59,39.55,120x60x140,Red,piece,True,2023-01-01,2025-01-04
+18,2,Exercise Bikes Model BIK007,BIK007,High-quality exercise bikes for home and commercial use.,844.97,1235.14,44.67,120x60x140,Blue,piece,True,2023-01-01,2025-01-04
+19,2,Exercise Bikes Model BIK008,BIK008,High-quality exercise bikes for home and commercial use.,854.62,1164.12,48.58,120x60x140,Black,piece,True,2023-01-01,2025-01-04
+20,2,Exercise Bikes Model BIK009,BIK009,High-quality exercise bikes for home and commercial use.,660.57,812.54,38.15,120x60x140,Red,piece,True,2023-01-01,2025-01-04
+21,2,Exercise Bikes Model BIK010,BIK010,High-quality exercise bikes for home and commercial use.,329.08,485.65,48.52,120x60x140,Blue,piece,True,2023-01-01,2025-01-04
+22,2,Exercise Bikes Model BIK011,BIK011,High-quality exercise bikes for home and commercial use.,376.75,460.42,53.38,120x60x140,Red,piece,True,2023-01-01,2025-01-04
+23,3,Rowing Machines Model ROW001,ROW001,High-quality rowing machines for home and commercial use.,1300.13,1776.98,38.11,210x50x100,Blue,piece,True,2023-01-01,2025-01-04
+24,3,Rowing Machines Model ROW002,ROW002,High-quality rowing machines for home and commercial use.,1024.53,1298.53,27.46,210x50x100,Red,piece,True,2023-01-01,2025-01-04
+25,3,Rowing Machines Model ROW003,ROW003,High-quality rowing machines for home and commercial use.,1038.64,1473.27,37.25,210x50x100,Green,piece,True,2023-01-01,2025-01-04
+26,3,Rowing Machines Model ROW004,ROW004,High-quality rowing machines for home and commercial use.,1326.93,1949.03,33.85,210x50x100,Blue,piece,True,2023-01-01,2025-01-04
+27,3,Rowing Machines Model ROW005,ROW005,High-quality rowing machines for home and commercial use.,792.45,1160.81,37.84,210x50x100,Blue,piece,True,2023-01-01,2025-01-04
+28,3,Rowing Machines Model ROW006,ROW006,High-quality rowing machines for home and commercial use.,1441.91,1856.63,20.7,210x50x100,Gray,piece,True,2023-01-01,2025-01-04
+29,3,Rowing Machines Model ROW007,ROW007,High-quality rowing machines for home and commercial use.,1089.23,1410.36,38.62,210x50x100,Black,piece,True,2023-01-01,2025-01-04
+30,3,Rowing Machines Model ROW008,ROW008,High-quality rowing machines for home and commercial use.,1252.38,1689.69,34.28,210x50x100,Red,piece,True,2023-01-01,2025-01-04
+31,3,Rowing Machines Model ROW009,ROW009,High-quality rowing machines for home and commercial use.,1369.94,1658.02,24.53,210x50x100,Gray,piece,True,2023-01-01,2025-01-04
+32,3,Rowing Machines Model ROW010,ROW010,High-quality rowing machines for home and commercial use.,1065.89,1288.44,34.96,210x50x100,Gray,piece,True,2023-01-01,2025-01-04
+33,4,Dumbbells Model DUM001,DUM001,High-quality dumbbells for home and commercial use.,72.46,96.19,36.6,30x10x10,Blue,piece,True,2023-01-01,2025-01-04
+34,4,Dumbbells Model DUM002,DUM002,High-quality dumbbells for home and commercial use.,191.24,229.99,47.22,30x10x10,Gray,piece,True,2023-01-01,2025-01-04
+35,4,Dumbbells Model DUM003,DUM003,High-quality dumbbells for home and commercial use.,148.1,207.2,10.86,30x10x10,Blue,piece,True,2023-01-01,2025-01-04
+36,4,Dumbbells Model DUM004,DUM004,High-quality dumbbells for home and commercial use.,68.15,86.65,11.71,30x10x10,Green,piece,True,2023-01-01,2025-01-04
+37,4,Dumbbells Model DUM005,DUM005,High-quality dumbbells for home and commercial use.,35.41,50.07,12.96,30x10x10,Blue,piece,True,2023-01-01,2025-01-04
+38,4,Dumbbells Model DUM006,DUM006,High-quality dumbbells for home and commercial use.,118.03,145.29,11.23,30x10x10,Black,piece,True,2023-01-01,2025-01-04
+39,4,Dumbbells Model DUM007,DUM007,High-quality dumbbells for home and commercial use.,133.72,184.26,10.91,30x10x10,Blue,piece,True,2023-01-01,2025-01-04
+40,4,Dumbbells Model DUM008,DUM008,High-quality dumbbells for home and commercial use.,130.38,178.54,24.78,30x10x10,Black,piece,True,2023-01-01,2025-01-04
+41,4,Dumbbells Model DUM009,DUM009,High-quality dumbbells for home and commercial use.,173.63,221.74,41.24,30x10x10,Green,piece,True,2023-01-01,2025-01-04
+42,4,Dumbbells Model DUM010,DUM010,High-quality dumbbells for home and commercial use.,121.75,170.32,14.54,30x10x10,Green,piece,True,2023-01-01,2025-01-04
+43,4,Dumbbells Model DUM011,DUM011,High-quality dumbbells for home and commercial use.,158.68,197.72,8.24,30x10x10,Gray,piece,True,2023-01-01,2025-01-04
+44,5,Barbells Model BAR001,BAR001,High-quality barbells for home and commercial use.,197.08,275.28,10.81,220x15x15,Green,piece,True,2023-01-01,2025-01-04
+45,5,Barbells Model BAR002,BAR002,High-quality barbells for home and commercial use.,118.83,177.46,18.83,220x15x15,Black,piece,True,2023-01-01,2025-01-04
+46,5,Barbells Model BAR003,BAR003,High-quality barbells for home and commercial use.,142.36,178.21,6.43,220x15x15,Blue,piece,True,2023-01-01,2025-01-04
+47,5,Barbells Model BAR004,BAR004,High-quality barbells for home and commercial use.,183.95,262.65,12.89,220x15x15,Gray,piece,True,2023-01-01,2025-01-04
+48,5,Barbells Model BAR005,BAR005,High-quality barbells for home and commercial use.,124.76,179.86,12.6,220x15x15,Gray,piece,True,2023-01-01,2025-01-04
+49,5,Barbells Model BAR006,BAR006,High-quality barbells for home and commercial use.,130.54,195.71,7.4,220x15x15,Green,piece,True,2023-01-01,2025-01-04
+50,5,Barbells Model BAR007,BAR007,High-quality barbells for home and commercial use.,118.63,154.35,18.13,220x15x15,Black,piece,True,2023-01-01,2025-01-04
+51,5,Barbells Model BAR008,BAR008,High-quality barbells for home and commercial use.,164.35,231.85,9.21,220x15x15,Blue,piece,True,2023-01-01,2025-01-04
+52,5,Barbells Model BAR009,BAR009,High-quality barbells for home and commercial use.,73.6,108.34,9.64,220x15x15,Green,piece,True,2023-01-01,2025-01-04
+53,5,Barbells Model BAR010,BAR010,High-quality barbells for home and commercial use.,161.4,235.69,13.7,220x15x15,Gray,piece,True,2023-01-01,2025-01-04
+54,6,Benches Model BEN001,BEN001,High-quality benches for home and commercial use.,108.27,143.04,23.47,150x60x45,Black,piece,True,2023-01-01,2025-01-04
+55,6,Benches Model BEN002,BEN002,High-quality benches for home and commercial use.,177.57,239.28,10.8,150x60x45,Green,piece,True,2023-01-01,2025-01-04
+56,6,Benches Model BEN003,BEN003,High-quality benches for home and commercial use.,467.19,646.84,27.57,150x60x45,Green,piece,True,2023-01-01,2025-01-04
+57,6,Benches Model BEN004,BEN004,High-quality benches for home and commercial use.,168.44,252.36,18.61,150x60x45,Green,piece,True,2023-01-01,2025-01-04
+58,6,Benches Model BEN005,BEN005,High-quality benches for home and commercial use.,102.1,138.0,18.28,150x60x45,Black,piece,True,2023-01-01,2025-01-04
+59,6,Benches Model BEN006,BEN006,High-quality benches for home and commercial use.,197.75,292.54,13.97,150x60x45,Red,piece,True,2023-01-01,2025-01-04
+60,6,Benches Model BEN007,BEN007,High-quality benches for home and commercial use.,394.11,571.79,10.19,150x60x45,Black,piece,True,2023-01-01,2025-01-04
+61,6,Benches Model BEN008,BEN008,High-quality benches for home and commercial use.,226.27,310.81,16.44,150x60x45,Gray,piece,True,2023-01-01,2025-01-04
+62,6,Benches Model BEN009,BEN009,High-quality benches for home and commercial use.,254.87,308.89,25.56,150x60x45,Red,piece,True,2023-01-01,2025-01-04
+63,6,Benches Model BEN010,BEN010,High-quality benches for home and commercial use.,137.56,205.91,23.06,150x60x45,Red,piece,True,2023-01-01,2025-01-04
+64,7,Yoga Mats Model YOG001,YOG001,High-quality yoga mats for home and commercial use.,28.67,39.41,1.68,180x60x0.5,Green,piece,True,2023-01-01,2025-01-04
+65,7,Yoga Mats Model YOG002,YOG002,High-quality yoga mats for home and commercial use.,31.25,45.85,2.92,180x60x0.5,Green,piece,True,2023-01-01,2025-01-04
+66,7,Yoga Mats Model YOG003,YOG003,High-quality yoga mats for home and commercial use.,9.23,11.47,3.26,180x60x0.5,Red,piece,True,2023-01-01,2025-01-04
+67,7,Yoga Mats Model YOG004,YOG004,High-quality yoga mats for home and commercial use.,22.28,28.91,3.04,180x60x0.5,Blue,piece,True,2023-01-01,2025-01-04
+68,7,Yoga Mats Model YOG005,YOG005,High-quality yoga mats for home and commercial use.,35.98,46.48,4.81,180x60x0.5,Red,piece,True,2023-01-01,2025-01-04
+69,7,Yoga Mats Model YOG006,YOG006,High-quality yoga mats for home and commercial use.,28.71,40.82,2.44,180x60x0.5,Blue,piece,True,2023-01-01,2025-01-04
+70,7,Yoga Mats Model YOG007,YOG007,High-quality yoga mats for home and commercial use.,36.23,50.81,1.42,180x60x0.5,Red,piece,True,2023-01-01,2025-01-04
+71,7,Yoga Mats Model YOG008,YOG008,High-quality yoga mats for home and commercial use.,10.44,13.13,1.39,180x60x0.5,Gray,piece,True,2023-01-01,2025-01-04
+72,7,Yoga Mats Model YOG009,YOG009,High-quality yoga mats for home and commercial use.,13.42,20.05,1.83,180x60x0.5,Black,piece,True,2023-01-01,2025-01-04
+73,7,Yoga Mats Model YOG010,YOG010,High-quality yoga mats for home and commercial use.,31.91,44.34,2.07,180x60x0.5,Green,piece,True,2023-01-01,2025-01-04
+74,7,Yoga Mats Model YOG011,YOG011,High-quality yoga mats for home and commercial use.,25.53,34.69,1.0,180x60x0.5,Black,piece,True,2023-01-01,2025-01-04
+75,8,Resistance Bands Model RES001,RES001,High-quality resistance bands for home and commercial use.,8.85,12.7,0.92,100x10x0.1,Gray,piece,True,2023-01-01,2025-01-04
+76,8,Resistance Bands Model RES002,RES002,High-quality resistance bands for home and commercial use.,21.93,26.35,0.43,100x10x0.1,Red,piece,True,2023-01-01,2025-01-04
+77,8,Resistance Bands Model RES003,RES003,High-quality resistance bands for home and commercial use.,12.86,16.9,0.89,100x10x0.1,Red,piece,True,2023-01-01,2025-01-04
+78,8,Resistance Bands Model RES004,RES004,High-quality resistance bands for home and commercial use.,8.27,12.26,0.71,100x10x0.1,Red,piece,True,2023-01-01,2025-01-04
+79,8,Resistance Bands Model RES005,RES005,High-quality resistance bands for home and commercial use.,21.47,27.06,1.76,100x10x0.1,Red,piece,True,2023-01-01,2025-01-04
+80,8,Resistance Bands Model RES006,RES006,High-quality resistance bands for home and commercial use.,2.61,3.45,0.65,100x10x0.1,Red,piece,True,2023-01-01,2025-01-04
+81,8,Resistance Bands Model RES007,RES007,High-quality resistance bands for home and commercial use.,9.7,13.91,0.45,100x10x0.1,Blue,piece,True,2023-01-01,2025-01-04
+82,8,Resistance Bands Model RES008,RES008,High-quality resistance bands for home and commercial use.,25.11,33.93,0.34,100x10x0.1,Black,piece,True,2023-01-01,2025-01-04
+83,8,Resistance Bands Model RES009,RES009,High-quality resistance bands for home and commercial use.,7.23,9.5,1.21,100x10x0.1,Black,piece,True,2023-01-01,2025-01-04
+84,8,Resistance Bands Model RES010,RES010,High-quality resistance bands for home and commercial use.,9.37,13.03,0.85,100x10x0.1,Blue,piece,True,2023-01-01,2025-01-04
+85,9,Wearables Model WEA001,WEA001,High-quality wearables for home and commercial use.,12.26,17.11,0.47,10x5x1,Red,piece,True,2023-01-01,2025-01-04
+86,9,Wearables Model WEA002,WEA002,High-quality wearables for home and commercial use.,179.49,257.86,0.44,10x5x1,Black,piece,True,2023-01-01,2025-01-04
+87,9,Wearables Model WEA003,WEA003,High-quality wearables for home and commercial use.,97.04,145.01,0.4,10x5x1,Red,piece,True,2023-01-01,2025-01-04
+88,9,Wearables Model WEA004,WEA004,High-quality wearables for home and commercial use.,164.58,224.58,0.48,10x5x1,Green,piece,True,2023-01-01,2025-01-04
+89,9,Wearables Model WEA005,WEA005,High-quality wearables for home and commercial use.,58.29,84.09,0.34,10x5x1,Blue,piece,True,2023-01-01,2025-01-04
+90,9,Wearables Model WEA006,WEA006,High-quality wearables for home and commercial use.,134.39,169.79,0.46,10x5x1,Green,piece,True,2023-01-01,2025-01-04
+91,9,Wearables Model WEA007,WEA007,High-quality wearables for home and commercial use.,13.13,15.88,0.12,10x5x1,Gray,piece,True,2023-01-01,2025-01-04
+92,9,Wearables Model WEA008,WEA008,High-quality wearables for home and commercial use.,150.4,192.08,0.39,10x5x1,Black,piece,True,2023-01-01,2025-01-04
+93,9,Wearables Model WEA009,WEA009,High-quality wearables for home and commercial use.,194.52,257.7,0.49,10x5x1,Red,piece,True,2023-01-01,2025-01-04
+94,9,Wearables Model WEA010,WEA010,High-quality wearables for home and commercial use.,31.39,46.44,0.32,10x5x1,Black,piece,True,2023-01-01,2025-01-04
+95,9,Wearables Model WEA011,WEA011,High-quality wearables for home and commercial use.,140.69,197.11,0.19,10x5x1,Black,piece,True,2023-01-01,2025-01-04
