@@ -61,6 +61,22 @@ HinergoGym è un’azienda italiana del settore fitness, con sedi produttive e c
 
 ---
 
+## ⚠️ Disclaimer
+
+L’azienda HinergoGym, le persone menzionate, il contesto di business e tutti i dati presenti sono **interamente inventati per finalità didattiche**.
+
+**Ogni somiglianza con aziende, persone o situazioni realmente esistenti è da considerarsi puramente casuale.**
+
+---
+
+## ⚠️ Disclaimer
+
+The company HinergoGym, all names, business scenarios, and data included in this repository are **entirely fictional and created for educational purposes only**.
+
+**Any resemblance to real companies, people, or events is purely coincidental.**
+
+---
+
 ## 📄 Licenza / License
 
 Il presente materiale è concesso in licenza per:
