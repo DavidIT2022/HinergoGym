@@ -2,7 +2,7 @@
 HinergoGym – Custom License
 
 Author: David Bianconi
-Contact: davidbianconi@outlook.it - https://www.linkedin.com/in/davidbianconi/
+Contact: david.bianconi@kubisco.com - https://www.linkedin.com/in/davidbianconi/
 
 License Summary:
 This dataset, model, and all related resources are provided under a custom license.
@@ -18,12 +18,12 @@ You are NOT allowed to:
 If you wish to include this content in any educational or commercial offering for third parties (e.g. paid trainings, workshops, bootcamps), you must request written permission.
 
 To request permission or clarify licensing terms, contact:
-📩 davidbianconi@outlook.it
+📩 david.bianconi@kubisco.com
 
 This material is offered for educational inspiration and non-profit knowledge sharing within ethical use boundaries.
 
 ⚠️ Disclaimer
 
-The company HinergoGym, all names, business scenarios, and data included in this repository are **entirely fictional and created for educational purposes only.
+The company HinergoGym, all names, business scenarios, and data included in this repository are entirely fictional and created for educational purposes only.
 
 Any resemblance to real companies, people, or events is purely coincidental.
