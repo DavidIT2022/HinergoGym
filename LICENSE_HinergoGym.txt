@@ -2,7 +2,7 @@
 HinergoGym – Custom License
 
 Author: David Bianconi
-Contact: davidbianconi@outlook.it
+Contact: davidbianconi@outlook.it - https://www.linkedin.com/in/davidbianconi/
 
 License Summary:
 This dataset, model, and all related resources are provided under a custom license.
