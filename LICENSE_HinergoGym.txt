@@ -21,3 +21,9 @@ To request permission or clarify licensing terms, contact:
 📩 davidbianconi@outlook.it
 
 This material is offered for educational inspiration and non-profit knowledge sharing within ethical use boundaries.
+
+⚠️ Disclaimer
+
+The company HinergoGym, all names, business scenarios, and data included in this repository are **entirely fictional and created for educational purposes only.
+
+Any resemblance to real companies, people, or events is purely coincidental.
