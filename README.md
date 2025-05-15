@@ -6,7 +6,9 @@
 **A complete fictional dataset and business case for data modeling, DAX training, and Power BI storytelling.**
 
 ---
+## 👀 Preview
 
+![Power BI Overview](./Images/meeting.png)
 ## 📘 Description
 
 HinergoGym is a demo scenario centered around a mid-sized Italian company that designs, produces, and distributes modular gym and fitness equipment.  
