@@ -1,4 +1,4 @@
-﻿CustomerKey,CustomerType,Country,City,Region,Industry,Segment,IsActive,CreatedDate,ModifiedDate,FirstName,LastName
+CustomerKey,CustomerType,Country,City,Region,Industry,Segment,IsActive,CreatedDate,ModifiedDate,FirstName,LastName
 1,B2C,USA,Balch Springs,Texas,,Individual,True,2023-01-01,2025-01-04,Paul,Lane
 2,B2C,Italy,Mondovì,Piedmont,,Individual,True,2023-01-01,2025-01-04,Gustavo,Sordi
 3,B2C,Italy,San Giovanni in Persiceto,Emilia-Romagna,,Individual,True,2023-01-01,2025-01-04,Giuseppina,Manunta

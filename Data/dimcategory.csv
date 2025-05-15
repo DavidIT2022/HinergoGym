@@ -1,4 +1,4 @@
-﻿CategoryKey,CategoryName,CategoryDescription,IsActive,CreatedDate,ModifiedDate
+CategoryKey,CategoryName,CategoryDescription,IsActive,CreatedDate,ModifiedDate
 1,Cardio,Equipment for cardiovascular workouts,True,2023-01-01,2025-01-04
 2,Strength,Equipment for strength training,True,2023-01-01,2025-01-04
 3,Accessories,Fitness accessories and wearables,True,2023-01-01,2025-01-04

@@ -1,4 +1,4 @@
-﻿DateKey,Date,Year,Quarter,Month,MonthName,Day,DayOfWeek,DayOfWeekName,IsWeekend,DayOfYear,WeekOfYear,IsMonthStart,IsMonthEnd
+DateKey,Date,Year,Quarter,Month,MonthName,Day,DayOfWeek,DayOfWeekName,IsWeekend,DayOfYear,WeekOfYear,IsMonthStart,IsMonthEnd
 20230101,2023-01-01,2023,1,1,January,1,7,Sunday,True,1,52,True,False
 20230102,2023-01-02,2023,1,1,January,2,1,Monday,False,2,1,False,False
 20230103,2023-01-03,2023,1,1,January,3,2,Tuesday,False,3,1,False,False

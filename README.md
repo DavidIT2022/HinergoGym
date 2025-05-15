@@ -1,92 +1,73 @@
-# HinergoGym
-A business case with demo data
-# 🏋️‍♂️ HinergoGym – Business Case & Demo Dataset
+# 🏋️ HinergoGym – Business Case & Demo Dataset
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=DavidIT2022.HinergoGym)
+![License](https://img.shields.io/badge/license-Custom-blue)
 
 **A complete fictional dataset and business case for data modeling, DAX training, and Power BI storytelling.**
+
+---
 
 ## 📘 Description
 
 HinergoGym is a demo scenario centered around a mid-sized Italian company that designs, produces, and distributes modular gym and fitness equipment.  
-The dataset includes 3 full years of sales data (2023–2025), complete dimensional modeling, and simulated customer behavior (B2C + B2B).
+The dataset includes full sales, marketing, HR, and company structure data for realistic training in Power BI.
 
 ---
 
 ## 🗂️ Data model structure
 
 ### 🔸 Fact Tables
-- `FactSales`: line-level sales (order, product, qty, discount, margin, campaign)
-- `FactOrderSatisfaction`: order-level satisfaction score (1–5)
+- `FactSales`: line-level sales
+- `FactOrderSatisfaction`: satisfaction rating per order
+- `FactAttendance`: daily attendance and absences
+- `FactLeaveBalance`: vacation accrual and use
+- `FactPayrollActual`: actual payroll cost
+- `FactPayrollBudget`: budgeted payroll
 
 ### 🔹 Dimension Tables
-- `DimDate`: full calendar table
-- `DimCustomer`: B2B and B2C customers (region, industry, segment)
-- `DimProduct`, `DimSubcategory`, `DimCategory`
-- `DimLocation`: sales/production/logistics sites (Italy, EU, US)
-- `DimCompany`: legal entity structure
-- `DimChannel`: Online vs Retail
-- `DimCampaign`: promotional campaigns (with discount %)
-- `DimOrder`: one row per order
-- `DimCurrencyRate`: daily conversion rates (EUR-based)
+- `DimDate`, `DimCustomer`, `DimProduct`, `DimOrder`
+- `DimCategory`, `DimSubcategory`, `DimChannel`, `DimLocation`
+- `DimCompany`, `DimCampaign`, `DimCurrencyRate`
+- `DimEmployee`, `DimFunction`, `DimJobGrade`, `DimCostCenter`, `DimCostItem`, `DimEventType`
 
 ---
 
-## 🎯 Use cases
-- Data modeling & star schema
-- DAX formula challenges (basic to guru level)
-- Storytelling on customer behavior, satisfaction, campaigns, and profitability
-- Training on multivalued currencies and decile-based customer analysis
-- Predictive logic and Power BI visuals
+## 📦 Download
+
+➡️ [Download full package HinergoGym_v1.1.zip](https://github.com/DavidIT2022/HinergoGym/releases/download/v1.1/HinergoGym_v1.1.zip)
+
+All materials in one ZIP (data, documentation, README, etc.)
 
 ---
 
-## 👤 Author / Contatti
+## 👥 HR Dataset (2024–2025)
 
-**David Bianconi**  
-✉️ david.bianconi@kubisco.com (https://www.linkedin.com/in/davidbianconi/)
+As of version 1.1, the project includes a **complete HR module**, fully integrated into the main data model.
 
----
+🧾 Documentation: `Business Case/StorytellingHR.docx` (bilingual IT/EN)
 
-## 🇮🇹 Versione Italiana
+📁 HR tables included in `/Data/`:
+- `DimEmployee`, `DimFunction`, `DimJobGrade`
+- `DimCostCenter`, `DimCostItem`, `DimEventType`
+- `FactAttendance`, `FactLeaveBalance`, `FactPayrollActual`, `FactPayrollBudget`
 
-**Caso aziendale completo e dataset fittizio per esercizi su Power BI, DAX e modelli dimensionali.**
-
-### 📖 Descrizione
-HinergoGym è un’azienda italiana del settore fitness, con sedi produttive e commerciali in Europa e Nord America. Il modello include vendite B2C e B2B, campagne marketing, canali, segmenti cliente e indicatori di soddisfazione.
-
-### 📚 Obiettivi didattici
-- Modellazione a stella e gestione currency
-- Misure DAX a vari livelli di difficoltà
-- Visual storytelling con stagionalità, margini e performance
-- Segmentazione avanzata clienti (decili, churn, retention)
+💡 You can:
+- Track daily attendance and paid/unpaid time
+- Compare payroll budget vs actual by employee or cost center
+- Monitor vacation accrual and usage
+- Simulate cost impact of absenteeism and replacements
 
 ---
 
-## ⚠️ Disclaimer
+## 🎓 Use cases
 
-L’azienda HinergoGym, le persone menzionate, il contesto di business e tutti i dati presenti sono **interamente inventati per finalità didattiche**.
-
-**Ogni somiglianza con aziende, persone o situazioni realmente esistenti è da considerarsi puramente casuale.**
-
----
-
-## ⚠️ Disclaimer
-
-The company HinergoGym, all names, business scenarios, and data included in this repository are **entirely fictional and created for educational purposes only**.
-
-**Any resemblance to real companies, people, or events is purely coincidental.**
+- Data modeling and star schema design
+- DAX training: from basic measures to complex business logic
+- Storytelling on revenue, margin, HR cost, satisfaction, and marketing
+- Multicurrency management (with EUR as base)
+- KPI tracking and decile-based segmentation
 
 ---
 
-## 📄 Licenza / License
+## 📁 Folder structure
 
-Il presente materiale è concesso in licenza per:
-- uso **individuale e personale**, anche commerciale,
-- **NON è consentito l’utilizzo per attività didattiche a terzi a scopo di lucro**, come corsi a pagamento o formazione aziendale.
-
-In tali casi è necessaria **autorizzazione scritta dell’autore**.
-
-This material is licensed for:
-- **individual and personal use**, including commercial purposes.
-- It is **NOT permitted to use this for teaching third parties for profit** (e.g., paid training, consulting bootcamps).
-
-**Explicit written permission from the author is required** in such cases.

@@ -1,0 +1,11 @@
+EventTypeID,EventDescription,EventCategory,Paid
+CA01,Regular Attendance,Presenza,True
+CA02,Training,Presenza,True
+CA03,Overtime,Presenza,True
+CA04,Leave,Assenza,True
+CA05,Paid Leave,Assenza,True
+CA06,Unpaid Leave,Assenza,False
+CA07,Sick Leave,Assenza,False
+CA08,Unexcused Absence,Assenza,False
+CA09,Late Entry,Presenza,True
+CA10,Early Exit,Presenza,True

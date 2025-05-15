@@ -1,4 +1,4 @@
-﻿SubcategoryKey,CategoryKey,SubcategoryName,SubcategoryDescription,IsActive,CreatedDate,ModifiedDate
+SubcategoryKey,CategoryKey,SubcategoryName,SubcategoryDescription,IsActive,CreatedDate,ModifiedDate
 1,1,Treadmills,Motorized running machines,True,2023-01-01,2025-01-04
 2,1,Exercise Bikes,Stationary bikes for indoor cycling,True,2023-01-01,2025-01-04
 3,1,Rowing Machines,Simulators for rowing workouts,True,2023-01-01,2025-01-04

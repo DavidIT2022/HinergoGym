@@ -1,4 +1,4 @@
-﻿CampaignKey,CampaignName,CampaignType,StartDateKey,EndDateKey,DiscountPct,Description,CreatedDate,ModifiedDate
+CampaignKey,CampaignName,CampaignType,StartDateKey,EndDateKey,DiscountPct,Description,CreatedDate,ModifiedDate
 1,BlackFriday2023,Discount,20231101,20231130,15.0,Black Friday discount Nov 2023,2023-01-01,2025-01-04
 2,BlackFriday2024,Discount,20241101,20241130,15.0,Black Friday discount Nov 2024,2023-01-01,2025-01-04
 3,BlackFriday2025,Discount,20251101,20251130,15.0,Black Friday discount Nov 2025,2023-01-01,2025-01-04

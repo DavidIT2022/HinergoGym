@@ -1,0 +1,17 @@
+CostCenterID,CostCenterName,LocationID,FunctionID
+CC001,Production Rome,R1,F001
+CC002,Production Turin,T1,F001
+CC003,Logistics Milan,M1,F002
+CC004,Logistics Rome,R1,F002
+CC005,Support Turin,T1,F003
+CC006,Support Milan,M1,F003
+CC007,R&D Rome,R1,F004
+CC008,Sales Milan,M1,F005
+CC009,Sales Rome,R1,F005
+CC010,Sales Turin,T1,F005
+CC011,Marketing Milan,M1,F006
+CC012,Marketing Rome,R1,F006
+CC013,HR & Admin Rome,R1,F007
+CC014,HR & Admin Milan,M1,F007
+CC015,Testing Rome,R1,F008
+CC016,Testing Turin,T1,F008

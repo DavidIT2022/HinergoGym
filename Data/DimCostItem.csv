@@ -1,0 +1,8 @@
+CostItemID,CostItem,Percentage
+1,Direct Compensation,0.65
+2,Indirect Compensation,0.1
+3,Bonuses and Incentives,0.05
+4,Social Security Contributions,0.12
+5,Severance Fund Quota,0.05
+6,Welfare & Benefits,0.02
+7,Training & Development,0.01

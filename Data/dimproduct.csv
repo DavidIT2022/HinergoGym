@@ -1,4 +1,4 @@
-﻿ProductKey,SubcategoryKey,ProductName,SKU,ProductDescription,UnitCost,UnitPrice,WeightKg,DimensionsCm,Color,UoM,IsActive,CreatedDate,ModifiedDate
+ProductKey,SubcategoryKey,ProductName,SKU,ProductDescription,UnitCost,UnitPrice,WeightKg,DimensionsCm,Color,UoM,IsActive,CreatedDate,ModifiedDate
 1,1,Treadmills Model TRD001,TRD001,High-quality treadmills for home and commercial use.,1500.53,2128.59,78.42,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
 2,1,Treadmills Model TRD002,TRD002,High-quality treadmills for home and commercial use.,1924.63,2677.37,125.23,200x90x140,Gray,piece,True,2023-01-01,2025-01-04
 3,1,Treadmills Model TRD003,TRD003,High-quality treadmills for home and commercial use.,1202.48,1712.69,81.99,200x90x140,Black,piece,True,2023-01-01,2025-01-04
