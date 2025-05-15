@@ -12,7 +12,8 @@
 HinergoGym is a demo scenario centered around a mid-sized Italian company that designs, produces, and distributes modular gym and fitness equipment.  
 The dataset includes full sales, marketing, HR, and company structure data for realistic training in Power BI.
 
----
+
+
 
 ## 🗂️ Data model structure
 
@@ -71,3 +72,39 @@ As of version 1.1, the project includes a **complete HR module**, fully integrat
 
 ## 📁 Folder structure
 
+---
+
+## 👤 Author / Contatti
+
+**David Bianconi**  
+✉️ david.bianconi@kubisco.com (https://www.linkedin.com/in/davidbianconi/)
+
+## ⚠️ Disclaimer
+
+L’azienda HinergoGym, le persone menzionate, il contesto di business e tutti i dati presenti sono **interamente inventati per finalità didattiche**.
+
+**Ogni somiglianza con aziende, persone o situazioni realmente esistenti è da considerarsi puramente casuale.**
+
+---
+
+## ⚠️ Disclaimer
+
+The company HinergoGym, all names, business scenarios, and data included in this repository are **entirely fictional and created for educational purposes only**.
+
+**Any resemblance to real companies, people, or events is purely coincidental.**
+
+---
+
+## 📄 Licenza / License
+
+Il presente materiale è concesso in licenza per:
+- uso **individuale e personale**, anche commerciale,
+- **NON è consentito l’utilizzo per attività didattiche a terzi a scopo di lucro**, come corsi a pagamento o formazione aziendale.
+
+In tali casi è necessaria **autorizzazione scritta dell’autore**.
+
+This material is licensed for:
+- **individual and personal use**, including commercial purposes.
+- It is **NOT permitted to use this for teaching third parties for profit** (e.g., paid training, consulting bootcamps).
+
+**Explicit written permission from the author is required** in such cases.
